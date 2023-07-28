@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PaperTimer/static/css/main.f76b9315.css",
+    "main.js": "/PaperTimer/static/js/main.1c844681.js",
+    "static/js/787.fd5cd5b2.chunk.js": "/PaperTimer/static/js/787.fd5cd5b2.chunk.js",
+    "index.html": "/PaperTimer/index.html",
+    "main.f76b9315.css.map": "/PaperTimer/static/css/main.f76b9315.css.map",
+    "main.1c844681.js.map": "/PaperTimer/static/js/main.1c844681.js.map",
+    "787.fd5cd5b2.chunk.js.map": "/PaperTimer/static/js/787.fd5cd5b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f76b9315.css",
+    "static/js/main.1c844681.js"
+  ]
+}
