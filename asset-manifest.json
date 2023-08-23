@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PaperTimer/static/css/main.6e3288d1.css",
-    "main.js": "/PaperTimer/static/js/main.65870bb1.js",
+    "main.js": "/PaperTimer/static/js/main.7fddc7cb.js",
     "static/js/787.fd5cd5b2.chunk.js": "/PaperTimer/static/js/787.fd5cd5b2.chunk.js",
     "index.html": "/PaperTimer/index.html",
     "main.6e3288d1.css.map": "/PaperTimer/static/css/main.6e3288d1.css.map",
-    "main.65870bb1.js.map": "/PaperTimer/static/js/main.65870bb1.js.map",
+    "main.7fddc7cb.js.map": "/PaperTimer/static/js/main.7fddc7cb.js.map",
     "787.fd5cd5b2.chunk.js.map": "/PaperTimer/static/js/787.fd5cd5b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e3288d1.css",
-    "static/js/main.65870bb1.js"
+    "static/js/main.7fddc7cb.js"
   ]
 }
